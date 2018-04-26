@@ -3,7 +3,7 @@ import scala.math._
 import scala.collection._
 import scala.collection.mutable.ListBuffer
 
-//package testPackage {
+package testPackage {
 
 class prime_1st(){
 	
@@ -148,4 +148,4 @@ object Demo {
 }
 }
 
-//}
+}
